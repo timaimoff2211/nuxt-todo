@@ -130,9 +130,9 @@ export default {
         padding: 5px;
         border-radius: 3px;
         border: 1px solid #ccc;
+        display: flex;
         align-items: center;
         cursor: pointer;
-        display: none;
     }
     .burger-menu .burger-line {
         position: relative;
@@ -166,9 +166,6 @@ export default {
         }
         .header {
             padding: 10px 0;
-        }
-        .burger-menu {
-            display: flex;
         }
     }
 </style>

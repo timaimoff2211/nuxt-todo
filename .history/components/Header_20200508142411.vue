@@ -130,6 +130,7 @@ export default {
         padding: 5px;
         border-radius: 3px;
         border: 1px solid #ccc;
+        display: flex;
         align-items: center;
         cursor: pointer;
         display: none;
